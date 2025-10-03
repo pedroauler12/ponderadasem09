@@ -1,4 +1,4 @@
-# Tarefa-Bruno-Predicao-Temporal
+
 
 # Previsão de Séries Temporais: Temperaturas Mínimas Diárias em Melbourne (1981–1990)
 
